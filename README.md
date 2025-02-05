@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeksteinEyal
 - 👀 I’m interested in fields of machine learning, such as large language models.
-- 🌱 I’m currently learning reinforcement learning.
+- 🌱 I’m currently learning sveltekit.
 - 💼 I'm professionaly working on RAG evaluation methods.
 - 💞️ I’m looking to collaborate on all kind of dataprocessing, and DL projects.
 - 📫 How to reach me : eyal.wekstein@outlook.fr
